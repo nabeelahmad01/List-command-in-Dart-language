@@ -1,0 +1,10 @@
+ain(){
+  List ages=[10,20,"ahmad",40,"Ali",60];
+  print("Number is $ages");
+ print(ages.length);
+  print(ages.first);
+  print(ages.last);
+  print(ages.reversed);
+  print(ages.isEmpty);
+  print(ages.isNotEmpty);
+  print(ages.elementAt(4));
